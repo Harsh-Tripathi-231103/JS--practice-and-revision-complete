@@ -1,9 +1,9 @@
-// create  a variable of type string and try to add a number to it.
+// create  a variable of type string and try to add a number to it also check its data type using typeof.
 
 var name="10"
                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 
-console.log(name - 45)
+console.log(typeof(name))
 
 // Quick summary:
 
